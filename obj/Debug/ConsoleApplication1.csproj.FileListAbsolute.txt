@@ -1,0 +1,24 @@
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\Unity.Abstractions.dll
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\Unity.Container.dll
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\Unity.Abstractions.pdb
+C:\Users\kirtan.chhatbar\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\Unity.Container.pdb
+D:\ci-cd\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ci-cd\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ci-cd\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ci-cd\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ci-cd\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ci-cd\ConsoleApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Abstractions.dll
+D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Container.dll
+D:\ci-cd\ConsoleApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Abstractions.pdb
+D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Container.pdb
+D:\ci-cd\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
