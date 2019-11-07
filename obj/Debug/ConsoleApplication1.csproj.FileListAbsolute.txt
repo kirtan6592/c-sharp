@@ -22,3 +22,12 @@ D:\ci-cd\ConsoleApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xm
 D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Abstractions.pdb
 D:\ci-cd\ConsoleApplication1\bin\Debug\Unity.Container.pdb
 D:\ci-cd\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
