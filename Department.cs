@@ -24,7 +24,6 @@ namespace ConsoleApplication1
         public string Email { get; set; }
         public string Address { get; set; }
         public string mobile { get; set; }
-        public DateTime DOB { get; set; }
         public Department Department { get; set; }
     }
 }
