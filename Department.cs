@@ -21,6 +21,11 @@ namespace ConsoleApplication1
         public string LastName { get; set; }
         public string Gender { get; set; }
         public int Salary { get; set; }
+        public string Email { get; set; }
+        public string Address { get; set; }
+        public string mobile { get; set; }
+        public DateTime DOB { get; set; }
+        public bool isActive { get; set; }
         public Department Department { get; set; }
     }
 }

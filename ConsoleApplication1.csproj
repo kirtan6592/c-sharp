@@ -72,13 +72,25 @@
     <Compile Include="Employee1.cs" />
     <Compile Include="EmployeeDbContext.cs" />
     <Compile Include="EmployeeRepository.cs" />
+    <Compile Include="Migrations\201911071213397_employee.cs" />
+    <Compile Include="Migrations\201911071213397_employee.Designer.cs">
+      <DependentUpon>201911071213397_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singletone.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201911071213397_employee.resx">
+      <DependentUpon>201911071213397_employee.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
