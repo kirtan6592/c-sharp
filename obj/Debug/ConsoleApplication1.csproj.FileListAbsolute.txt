@@ -31,3 +31,6 @@ D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.xml
 D:\New folder\c-sharp\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
 D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.employee.resources
+D:\New folder\c-sharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
